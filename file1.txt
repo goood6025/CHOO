@@ -1,1 +1,6 @@
-CHOO
+This is file1.txt of modified
+My first file in github.com
+
+ADD some lines:
+ Fist line
+ Second line
