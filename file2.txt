@@ -1,0 +1,2 @@
+This is file2.txt in test1 branch.
+It is new test!
