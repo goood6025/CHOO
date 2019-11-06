@@ -1,2 +1,1 @@
-This is file2.txt in test1 branch.
-It is new test!
+this is file2.txt in feature1 branch.
